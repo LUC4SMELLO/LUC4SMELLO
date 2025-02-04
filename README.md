@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Lucas Mello
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2º ano do ensino médio, gosto muito de tecnologia e escrevi minha primeira linha de código em agosto de 2023, e venho estudando programação desde então.
 
@@ -10,7 +10,7 @@ Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2º ano do ensino m�
 <img 
     align="left"
     alt="python"
-    title="python"
+    title="Python"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -19,7 +19,7 @@ Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2º ano do ensino m�
 <img
     align="left"
     alt="pandas"
-    title="pandas"
+    title="Pandas"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
@@ -28,7 +28,7 @@ Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2º ano do ensino m�
 <img
     align="left"
     alt="matplotlib"
-    title="matplotlib"
+    title="Matplotlib"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
@@ -37,7 +37,7 @@ Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2º ano do ensino m�
 <img
     align="left"
     alt="numpy"
-    title="numpy"
+    title="Numpy"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
@@ -46,7 +46,7 @@ Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2º ano do ensino m�
 <img
     align="left"
     alt="pytest"
-    title="pytest"
+    title="Pytest"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg"
@@ -56,7 +56,7 @@ Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2º ano do ensino m�
 <img
     align="left"
     alt="vba"
-    title="Visual Basic Apl"
+    title="Visual Basic"
     width="40px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
