@@ -107,7 +107,7 @@ Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2ยบ ano do ensino mร
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LUC4SMELLO&theme=github_dark" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=LUC4SMELLO&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LUC4SMELLO&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
