@@ -3,9 +3,7 @@
 **`Desenvolvedor Back-end`**
 
 Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2º ano do ensino médio, gosto muito de tecnologia e escrevi minha primeira linha de código em agosto de 2023, e venho estudando programação desde então.
-
 ---
-
 ### 💾 Linguagens e Tecnologias
 
 <img 
@@ -100,6 +98,7 @@ Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2º ano do ensino m�
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    width="480"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUC4SMELLO&theme=tokyonight&custom_title=Tecnologias&langs_count=9&layout=compact" 
   />
 
