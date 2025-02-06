@@ -84,6 +84,8 @@ Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2Âº ano do ensino mÃ
 <br>
 <br>
 
+---
+
 ### EstatÃ­sticas
 
 <p>
@@ -92,14 +94,14 @@ Me chamo Lucas Pereira Silva Mello, tenho 16 anos. Estou no 2Âº ano do ensino mÃ
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LUC4SMELLO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LUC4SMELLO&show_icons=true&theme=github_dark&include_all_commits=true&locale=pt-br" 
   />
 
   <img    
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUC4SMELLO&theme=tokyonight&custom_title=Tecnologias&langs_count=9&layout=compact" 
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUC4SMELLO&theme=github_dark&custom_title=Tecnologias&langs_count=9&layout=compact&hide_progress=true" 
   />
 
 </p>
